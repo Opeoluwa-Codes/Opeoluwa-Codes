@@ -18,7 +18,7 @@ Eager to work on exciting projects. Let's create something amazing together! ðŸ¤
 ## Education:
 
 * Obafemi Awolowo University (Bachelor's degree) | 2017 - 2022
-* Senator Abiru Innovation Labo (inc CcHub-Africa) | Jul 2024 - Dec 2024
+* Senator Abiru Innovation Lab (inc CcHub-Africa) | Jul 2024 - Dec 2024
 
 ## Tool stack:
 

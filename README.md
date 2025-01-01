@@ -12,8 +12,8 @@ Eager to work on exciting projects. Let's create something amazing together! ðŸ¤
 
 ## Know more:
 
-* Click [here]([url](https://docs.google.com/document/d/1i631AZq5xHQf1kn7algQB_08yskF6iv9oBqmQsb16T0/edit?usp=sharing)) to see my CV.
-* Portfolio:
+* Click [here](https://docs.google.com/document/d/1i631AZq5xHQf1kn7algQB_08yskF6iv9oBqmQsb16T0/edit?usp=sharing) to see my CV.
+* Click [here](https://opeoluwa-portfolio.vercel.app/) to see my portfolio.
 
 ## Education:
 

@@ -8,12 +8,13 @@ Hello! I'm a FrontEnd developer looking for mentorship and experience.
 
 Eager to work on exciting projects. Let's create something amazing together! 🤸‍♂️
 
+![](https://komarev.com/ghpvc/?username=Opeoluwa-Codes&abbreviated=true&label=PROFILE+VIEWS&style=plastic&color=yellowgreen)
 
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Opeoluwa-Codes)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Opeoluwa-Codes&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Codes&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Opeoluwa-Codes&theme=gruvbox&hide_border=true)

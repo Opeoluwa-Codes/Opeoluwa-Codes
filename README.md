@@ -15,9 +15,6 @@ Eager to work on exciting projects. Let's create something amazing together! �
 * CV:
 * Portfolio:
 
-## Contact me:
-
-
 ## Tool stack:
 
 [![My Skills](https://skillicons.dev/icons?i=discord,git,github,figma,visualstudio,react,html,css,styledcomponents,vercel,vite,postman&theme=light)](https://skillicons.dev)
@@ -34,4 +31,4 @@ Eager to work on exciting projects. Let's create something amazing together! �
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Codes&langs_count=10&theme=shadow_blue&border_color=e1e4e8&number_format=short)](https://github.com/anuraghazra/github-readme-stats)
 
-## Ciao 👋🏼
+## More 👇🏼 

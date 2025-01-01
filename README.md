@@ -3,7 +3,7 @@
 
 Hello! I'm a FrontEnd developer looking for mentorship and experience.
 
-**My passion:** Building scalable, easy-to-use, and efficient applicaions using ReactJs the latest web technologies.
+**My passion:** Building scalable, easy-to-use, and efficient solutions using the latest web technologies.
 
 **Open to:** Productive collaborations.
 

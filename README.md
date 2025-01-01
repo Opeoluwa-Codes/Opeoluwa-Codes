@@ -8,6 +8,17 @@ Hello! I'm a FrontEnd developer looking for mentorship and experience.
 
 Eager to work on exciting projects. Let's create something amazing together! 🤸‍♂️
 
+## Know more:
+
+* CV:
+* Portfolio:
+
+## Contact me:
+
+## Tool stack:
+
+[![My Skills](https://skillicons.dev/icons?i=discord,git,github,figma,visualstudio,react,html,css,styledcomponents,vercel,vite,postman&theme=light)](https://skillicons.dev)
+
 ![](https://komarev.com/ghpvc/?username=Opeoluwa-Codes&abbreviated=true&label=PROFILE+VIEWS&style=plastic&color=yellowgreen)
 
 

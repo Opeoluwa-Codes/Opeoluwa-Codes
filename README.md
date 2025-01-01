@@ -12,8 +12,13 @@ Eager to work on exciting projects. Let's create something amazing together! ðŸ¤
 
 ## Know more:
 
-* CV:
+* Click [here]([url](https://docs.google.com/document/d/1i631AZq5xHQf1kn7algQB_08yskF6iv9oBqmQsb16T0/edit?usp=sharing)) to see my CV.
 * Portfolio:
+
+## Education:
+
+* Obafemi Awolowo University (Bachelor's degree) | 2017 - 2022
+* Senator Abiru Innovation Labo (inc CcHub-Africa) | Jul 2024 - Dec 2024
 
 ## Tool stack:
 

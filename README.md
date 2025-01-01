@@ -33,3 +33,6 @@ Eager to work on exciting projects. Let's create something amazing together! ðŸ¤
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Opeoluwa-Codes&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=shadow_blue&border_color=e1e4e8&number_format=short&line_height=35)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Codes&langs_count=10&theme=shadow_blue&border_color=e1e4e8&number_format=short)](https://github.com/anuraghazra/github-readme-stats)
+
+## Ciao
+![Snake animation](https://github.com/Opeoluwa-Codes/Opeoluwa-Codes/blob/output/github-contribution-grid-snake.svg)

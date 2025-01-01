@@ -9,6 +9,7 @@ Hello! I'm a FrontEnd developer looking for mentorship and experience.
 
 Eager to work on exciting projects. Let's create something amazing together! 🤸‍♂️
 
+
 ## Know more:
 
 * CV:
@@ -16,17 +17,19 @@ Eager to work on exciting projects. Let's create something amazing together! �
 
 ## Contact me:
 
+
 ## Tool stack:
 
 [![My Skills](https://skillicons.dev/icons?i=discord,git,github,figma,visualstudio,react,html,css,styledcomponents,vercel,vite,postman&theme=light)](https://skillicons.dev)
 
 
+## Achievements:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Opeoluwa-Codes&theme=flat&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+## Useful Stats:
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Opeoluwa-Codes&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=shadow_blue&border_color=e1e4e8&number_format=short&line_height=35)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Opeoluwa-Codes&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Opeoluwa-Codes&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Codes&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Codes&langs_count=10&theme=shadow_blue&border_color=e1e4e8&number_format=short)](https://github.com/anuraghazra/github-readme-stats)
